@@ -1,0 +1,2 @@
+100 paracetamol 0 50 p1 
+300 antibiotic 1 70 p3 
